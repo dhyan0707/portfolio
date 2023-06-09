@@ -1,0 +1,41 @@
+.logo{
+    width: 12%;
+    height: 12%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.navbar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    
+}
+.listitem{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 10px;
+    
+    align-items: center;
+
+}
+.sec1{
+    width: 100%;
+    height: 900px;
+}
+.img1{
+    width: 100%;
+    height: 900px;
+}
+#heading{
+    position: sticky;
+    top: 30px;
+}
+
